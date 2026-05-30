@@ -1,0 +1,43 @@
+{
+  "allowMovement": {
+    "com.cobblemon.mod.common.client.gui.summary.Summary": true,
+    "net.minecraft.class_433": true,
+    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true,
+    "com.gitlab.srcmc.rctmod.client.screens.TrainerCardScreen": true,
+    "com.cobblemon.mod.common.client.gui.battle.BattleGUI": true,
+    "net.minecraft.class_429": true,
+    "net.minecraft.class_5375": true,
+    "su.plo.lib.mod.client.gui.screen.ScreenWrapper": true,
+    "net.minecraft.class_458": true,
+    "com.blamejared.controlling.client.NewKeyBindsScreen": true,
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
+    "io.wispforest.accessories.client.gui.AccessoriesExperimentalScreen": true,
+    "com.lumyverse.cobbleversebadges.screen.custom.KantoBadgeBoxScreen": true,
+    "com.lumyverse.cobbleversebadges.screen.custom.JohtoBadgeBoxScreen": true,
+    "xaero.map.gui.GuiMap": true,
+    "net.minecraft.class_443": true,
+    "com.cobblemon.mod.common.client.gui.interact.wheel.InteractWheelGUI": true,
+    "com.cobblemon.mod.common.client.gui.pokedex.PokedexGUI": true,
+    "xaero.map.gui.GuiWorldMapSettings": true,
+    "xaero.common.gui.GuiMinimapMain": true,
+    "com.cobblemon.mod.common.client.gui.interact.partyselect.PartySelectGUI": true,
+    "com.terraformersmc.modmenu.gui.ModsScreen": true,
+    "xaero.pac.client.gui.MainMenu": true,
+    "xaero.pac.client.gui.ConfigMenu": true,
+    "xaero.pac.client.gui.PlayerConfigScreen": true,
+    "fr.harmex.cobbledollars.common.client.gui.screen.ShopScreen": true,
+    "net.minecraft.class_410": true
+  },
+  "hideBackground": {
+    "com.cobblemon.mod.common.client.gui.summary.Summary": true,
+    "com.cobblemon.mod.common.client.gui.pc.PCGUI": true,
+    "com.gitlab.srcmc.rctmod.client.screens.TrainerCardScreen": true,
+    "net.p3pp3rf1y.sophisticatedbackpacks.client.gui.BackpackScreen": true,
+    "com.lumyverse.cobbleversebadges.screen.custom.KantoBadgeBoxScreen": true,
+    "com.lumyverse.cobbleversebadges.screen.custom.JohtoBadgeBoxScreen": true,
+    "com.cobblemon.mod.common.client.gui.interact.wheel.InteractWheelGUI": true,
+    "com.cobblemon.mod.common.client.gui.pokedex.PokedexGUI": true,
+    "com.cobblemon.mod.common.client.gui.interact.partyselect.PartySelectGUI": true,
+    "fr.harmex.cobbledollars.common.client.gui.screen.ShopScreen": true
+  }
+}
