@@ -1,0 +1,8 @@
+# GamingAlliance content repo (Ripseync/Gamon).
+#
+# These files are distributed to players byte-for-byte and their SHA1 is
+# recorded in manifest.json. Git MUST NOT rewrite line endings, or the served
+# bytes (LF) would no longer match the manifest hash (computed from the source
+# CRLF copies) and the launcher would re-download every text file on every
+# launch. `-text` disables all EOL conversion so every file is stored verbatim.
+* -text
