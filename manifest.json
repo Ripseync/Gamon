@@ -119,9 +119,9 @@
                  },
                  {
                      "category":  "Core",
-                     "name":  "Carved Wood-fabric-1.21.1-1.8.2",
-                     "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/Carved%20Wood-fabric-1.21.1-1.8.2.jar",
-                     "fileName":  "Carved Wood-fabric-1.21.1-1.8.2.jar",
+                     "name":  "Carved_Wood-fabric-1.21.1-1.8.2",
+                     "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/Carved_Wood-fabric-1.21.1-1.8.2.jar",
+                     "fileName":  "Carved_Wood-fabric-1.21.1-1.8.2.jar",
                      "sha1":  "b33a37bd0da649d860bf70e32681e49f206e08a6"
                  },
                  {
@@ -644,9 +644,9 @@
                  },
                  {
                      "category":  "Core",
-                     "name":  "Only Bottle Caps-1.3.0",
-                     "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/Only%20Bottle%20Caps-1.3.0.jar",
-                     "fileName":  "Only Bottle Caps-1.3.0.jar",
+                     "name":  "Only_Bottle_Caps-1.3.0",
+                     "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/Only_Bottle_Caps-1.3.0.jar",
+                     "fileName":  "Only_Bottle_Caps-1.3.0.jar",
                      "sha1":  "23ef87de0db4ec6914b67ad96d72c204874dc613"
                  },
                  {
