@@ -12668,6 +12668,10 @@
                        }
                    ],
     "links":  {
-
+                  "discord":  "https://discord.gg/your-invite-code",
+                  "website":  "https://gamingalliance.net"
+              },
+    "media":  {
+                  "backgroundVideo":  ""
               }
 }
