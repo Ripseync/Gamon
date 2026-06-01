@@ -1,3 +1,5 @@
+![GamingAlliance banner](banner.png)
+
 # Documentation
 
 Helpful links, guides and mod wikis for the modpack. *(Work in progress — more coming soon.)*
