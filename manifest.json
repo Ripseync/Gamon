@@ -12672,6 +12672,11 @@
                   "website":  "https://gamingalliance.net"
               },
     "media":  {
-                  "backgroundVideo":  ""
+                  "backgroundVideos":  [
+                                           "https://github.com/Ripseync/Gamon/releases/download/background-videos/BackgroundVideo_0.mp4",
+                                           "https://github.com/Ripseync/Gamon/releases/download/background-videos/BackgroundVideo_1.mp4",
+                                           "https://github.com/Ripseync/Gamon/releases/download/background-videos/BackgroundVideo_2.mp4",
+                                           "https://github.com/Ripseync/Gamon/releases/download/background-videos/BackgroundVideo3.mp4"
+                                       ]
               }
 }
