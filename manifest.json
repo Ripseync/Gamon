@@ -12668,12 +12668,15 @@
                        }
                    ],
     "links":  {
-                  "discord":  "https://discord.gg/your-invite-code",
-                  "website":  ""
+                  "discord":  "https://discord.gg/3jqpTSctJJ",
+                  "website":  "https://gamingalliance.net"
               },
     "media":  {
                   "backgroundVideos":  [
-
+                                           "https://github.com/Ripseync/Gamon/releases/download/background-videos/BackgroundVideo_0.mp4",
+                                           "https://github.com/Ripseync/Gamon/releases/download/background-videos/BackgroundVideo_1.mp4",
+                                           "https://github.com/Ripseync/Gamon/releases/download/background-videos/BackgroundVideo_2.mp4",
+                                           "https://github.com/Ripseync/Gamon/releases/download/background-videos/BackgroundVideo3.mp4"
                                        ]
               }
 }
