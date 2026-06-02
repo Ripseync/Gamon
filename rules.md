@@ -17,4 +17,4 @@ Play fair and keep it fun for everyone. Breaking these may result in a warning, 
 
 ---
 
-*Edit this file at `rules.md` in the content repo to change the rules. Use `## Section` headings, `-` bullets, and `[label](https://link)` for links.*
+**Launcher and Game Server built by `Ripsey` for `GamingAlliance.net`. Report any incident on our Discord.*
