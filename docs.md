@@ -17,4 +17,4 @@ Helpful links, guides and mod wikis for the modpack. *(Work in progress — more
 
 ---
 
-*Edit this file at `docs.md` in the content repo to add guides and links. Use `## Section` headings, `-` bullets, and `[label](https://link)` for links.*
+*Launcher and Game Server built by `RIPSEY` for [GamingAlliance.net](https://gamingalliance.net/). Report any incident on our [Discord](https://discord.gg/3jqpTSctJJ).*
