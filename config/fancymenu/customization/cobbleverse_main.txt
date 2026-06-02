@@ -313,7 +313,7 @@ element {
 }
 
 element {
-  source = &eby &c&lLUMY&b&lVERSE
+  source = &c&lLUMYVERSE &ex &b&lRIPSEY
   source_mode = direct
   scale = 1.2
   shadow = true
@@ -363,7 +363,7 @@ element {
 
 element {
   button_element_executable_block_identifier = c7e18c08-70bb-442d-9621-3425c575c867-1743328958871
-  [executable_action_instance:e2398f67-ae55-4633-9533-94d39a09cf54-1743331354465][action_type:openlink] = https://apexhost.gg/LUMYVERSE
+  [executable_action_instance:e2398f67-ae55-4633-9533-94d39a09cf54-1743331354465][action_type:openlink] = https://www.gamingalliance.net/
   [executable_block:c7e18c08-70bb-442d-9621-3425c575c867-1743328958871][type:generic] = [executables:e2398f67-ae55-4633-9533-94d39a09cf54-1743331354465;]
   restartbackgroundanimations = true
   nine_slice_custom_background = false
@@ -426,7 +426,7 @@ element {
 
 element {
   button_element_executable_block_identifier = 80339891-38aa-44ee-ba7e-251f1f456e32-1745761666924
-  [executable_action_instance:25b0ca65-b407-4976-bdd6-085e95df4259-1745763618944][action_type:openlink] = https://discord.lumy.fun
+  [executable_action_instance:25b0ca65-b407-4976-bdd6-085e95df4259-1745763618944][action_type:openlink] = https://discord.gg/3jqpTSctJJ
   [executable_block:80339891-38aa-44ee-ba7e-251f1f456e32-1745761666924][type:generic] = [executables:25b0ca65-b407-4976-bdd6-085e95df4259-1745763618944;]
   restartbackgroundanimations = true
   nine_slice_custom_background = false

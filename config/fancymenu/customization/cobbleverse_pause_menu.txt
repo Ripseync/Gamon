@@ -105,8 +105,8 @@ element {
 
 element {
   button_element_executable_block_identifier = b1f3050a-3005-4d6b-acb7-46e68917eaf4-1746103635508
-  [executable_action_instance:c1d37810-6adb-4d26-874a-ca1887c79e84-1746103652334][action_type:openlink] = https://discord.lumy.fun
-  [executable_action_instance:e2e67505-8492-4752-b4f9-7f8d7b66e8a7-1746104101768][action_type:openlink] = https://discord.lumy.fun
+  [executable_action_instance:c1d37810-6adb-4d26-874a-ca1887c79e84-1746103652334][action_type:openlink] = https://discord.gg/3jqpTSctJJ
+  [executable_action_instance:e2e67505-8492-4752-b4f9-7f8d7b66e8a7-1746104101768][action_type:openlink] = https://discord.gg/3jqpTSctJJ
   [executable_block:b1f3050a-3005-4d6b-acb7-46e68917eaf4-1746103635508][type:generic] = [executables:c1d37810-6adb-4d26-874a-ca1887c79e84-1746103652334;e2e67505-8492-4752-b4f9-7f8d7b66e8a7-1746104101768;]
   restartbackgroundanimations = true
   nine_slice_custom_background = false
@@ -170,7 +170,7 @@ element {
 
 element {
   button_element_executable_block_identifier = e43537c0-d8ae-4fef-bddc-f5740f6adb58-1746103697603
-  [executable_action_instance:15a1455a-d032-429e-92f2-ef276a4f36f5-1746104119289][action_type:openlink] = https://www.lumyverse.com/cobbleverse
+  [executable_action_instance:15a1455a-d032-429e-92f2-ef276a4f36f5-1746104119289][action_type:openlink] = https://www.gamingalliance.net/
   [executable_block:e43537c0-d8ae-4fef-bddc-f5740f6adb58-1746103697603][type:generic] = [executables:15a1455a-d032-429e-92f2-ef276a4f36f5-1746104119289;]
   restartbackgroundanimations = true
   nine_slice_custom_background = false
