@@ -26,4 +26,4 @@
 
 ---
 
-*Edit this file at `patchnotes.md` in the content repo to post updates. Use `## YYYY-MM-DD — Title` for each entry, `-` for bullet points, and `[label](https://link)` for links.*
+*Launcher and Game Server built by `Ripsey` for `GamingAlliance.net`. Report any incident on our Discord.*
