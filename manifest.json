@@ -1186,7 +1186,7 @@
                            "name":  "config/DistantHorizons.toml",
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/config/DistantHorizons.toml",
                            "path":  "config/DistantHorizons.toml",
-                           "sha1":  "4036c0609ee4fa06bbd8774bf7b0fb78865e2328"
+                           "sha1":  "3ce8eebd620ae577bd8c74ec966444b15577c4ae"
                        },
                        {
                            "name":  "config/entityculling.json",
@@ -1792,7 +1792,7 @@
                            "name":  "config/customsplashscreen/background.png",
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/config/customsplashscreen/background.png",
                            "path":  "config/customsplashscreen/background.png",
-                           "sha1":  "5395dbfc1856c3cfbd1e8797b7c2f5cc2d45d87b"
+                           "sha1":  "b77f3b448955d42d7936e003d4f143272c9fc239"
                        },
                        {
                            "name":  "config/customsplashscreen/progressbar.png",
@@ -1954,7 +1954,7 @@
                            "name":  "config/fancymenu/customization/cobbleverse_main.txt",
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/config/fancymenu/customization/cobbleverse_main.txt",
                            "path":  "config/fancymenu/customization/cobbleverse_main.txt",
-                           "sha1":  "76742709a3bc3b7dda209ff95da7a0570f6b59db"
+                           "sha1":  "3638ab633d7cdc6709227286cbd82a6b415163ee"
                        },
                        {
                            "name":  "config/fancymenu/customization/cobbleverse_multiplayer_screen.txt",
@@ -1966,7 +1966,7 @@
                            "name":  "config/fancymenu/customization/cobbleverse_pause_menu.txt",
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/config/fancymenu/customization/cobbleverse_pause_menu.txt",
                            "path":  "config/fancymenu/customization/cobbleverse_pause_menu.txt",
-                           "sha1":  "236e33d11f824a1caa7fd80d2c96978d93f5779e"
+                           "sha1":  "b76bd7bd4e3903c3cee5a586c89083253e353bb4"
                        },
                        {
                            "name":  "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
@@ -12668,15 +12668,12 @@
                        }
                    ],
     "links":  {
-                  "discord":  "https://discord.gg/3jqpTSctJJ",
-                  "website":  "https://gamingalliance.net"
+                  "discord":  "https://discord.gg/your-invite-code",
+                  "website":  ""
               },
     "media":  {
                   "backgroundVideos":  [
-                                           "https://github.com/Ripseync/Gamon/releases/download/background-videos/BackgroundVideo_0.mp4",
-                                           "https://github.com/Ripseync/Gamon/releases/download/background-videos/BackgroundVideo_1.mp4",
-                                           "https://github.com/Ripseync/Gamon/releases/download/background-videos/BackgroundVideo_2.mp4",
-                                           "https://github.com/Ripseync/Gamon/releases/download/background-videos/BackgroundVideo3.mp4"
+
                                        ]
               }
 }
