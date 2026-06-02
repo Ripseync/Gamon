@@ -170,7 +170,7 @@ element {
 
 element {
   button_element_executable_block_identifier = e43537c0-d8ae-4fef-bddc-f5740f6adb58-1746103697603
-  [executable_action_instance:15a1455a-d032-429e-92f2-ef276a4f36f5-1746104119289][action_type:openlink] = https://www.lumyverse.com/cobbleverse/
+  [executable_action_instance:15a1455a-d032-429e-92f2-ef276a4f36f5-1746104119289][action_type:openlink] = https://www.lumyverse.com/wiki/tutorials/
   [executable_block:e43537c0-d8ae-4fef-bddc-f5740f6adb58-1746103697603][type:generic] = [executables:15a1455a-d032-429e-92f2-ef276a4f36f5-1746104119289;]
   restartbackgroundanimations = true
   nine_slice_custom_background = false
