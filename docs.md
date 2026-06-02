@@ -17,4 +17,4 @@ Helpful links, guides and mod wikis for the modpack. *(Work in progress — more
 
 ---
 
-*Launcher and Game Server built by `RIPSEY` for [GamingAlliance.net](https://gamingalliance.net/). Report any incident on our [Discord](https://discord.gg/3jqpTSctJJ).*
+*Launcher and Game Server built by `RIPSEY` for `GamingAlliance.net`. Report any incident on our `Discord`.*
