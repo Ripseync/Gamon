@@ -7,6 +7,7 @@
 - Let me know what you think about [website](https://gamingalliance.net) mentions, and let me know if adjustments need to be done on **[Discord](https://discord.gg/3jqpTSctJJ)**.
 - **Ilum says hi to Travis !** :).
 - Launcher should pull and **Auto-Update** on start when I edit files so no maintenance on your end.
+- Auto-update patch notes / rules / docs / launcher interface edits / ingame mods / ingame configs / server IP to auto-join
 
 ---
 
