@@ -1,5 +1,14 @@
 # Patch Notes
 
+## 2026-06-05 — Demo Preview GamingAlliance
+
+- Hello DrunkMundi !
+- **This is a test** — Welcome to the preview.
+- Let me know what you think about [website](https://gamingalliance.net) mentions, and let me know if adjustments need to be done on **[Discord](https://discord.gg/3jqpTSctJJ)**.
+- **Ilum says hi to Travis !** :).
+
+---
+
 ## 2026-06-02 — Video backgrounds, sound & one-click join
 
 - Brand-new home screen with a **looping video background** that shuffles through multiple clips.
