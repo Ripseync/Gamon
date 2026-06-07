@@ -8,18 +8,18 @@ Helpful links, guides and mod wikis for the modpack. *(Work in progress — more
 ## Getting started
 
 - Controls & keybinds:
-  * Select your Starter Pokémon: C
-  * Open Pokémon Party: C
-  * Change selected Pokémon: ↑ ↓
-  * Open Pokémon PC: P
-  * Zoom: X
-  * Map: M
-  * Jukebox: J
-  * Accessories: H
-  * Voice chat settings: V
-  * Claim protection settings: '
-  * Ping: Middle mouse button
-  * Waypoints: U
+  - Select your Starter Pokémon: C
+  - Open Pokémon Party: C
+  - Change selected Pokémon: ↑ ↓
+  - Open Pokémon PC: P
+  - Zoom: X
+  - Map: M
+  - Jukebox: J
+  - Accessories: H
+  - Voice chat settings: V
+  - Claim protection settings: '
+  - Ping: Middle mouse button
+  - Waypoints: U
     
 - How to evolve a Pokémon: meet requirements → "C" to access your Pokémon summary → "Evolve"
 - How to create a party: /openpac-parties create *your_party_name*
