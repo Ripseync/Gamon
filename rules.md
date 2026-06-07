@@ -12,6 +12,7 @@ Play fair and keep it fun for everyone. Breaking these may result in a warning, 
 ## Gameplay
 
 - Don't claim land you won't use; leave room for others.
+- Don't claim point of interest such as Pokémon Center, Shops, Gyms, Legendary Monuments, etc... 
 - PvP only where it's allowed.
 - Report bugs and exploits instead of abusing them.
 
