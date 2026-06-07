@@ -9,7 +9,7 @@ date: 2026-06-01
 
 The Launcher will **automatically** fetch and update your files so it always match the server.
 
-- Open **Patch Notes** to access Wiki & Rules.
-- Check server announcements from the 🔔 bell anytime.
-- Open settings to see the minimal requirements.
+- Open **Patch Notes** to access **Wiki** & **Rules**.
+- Check server **Announcements** from the 🔔 bell anytime.
+- Open **Settings** to see the minimal requirements.
 - Stay on touch with the community - Join our [Discord](https://discord.gg/3jqpTSctJJ).
