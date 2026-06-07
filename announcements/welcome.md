@@ -5,7 +5,8 @@ date: 2026-06-01
 ---
 # 📢 Welcome to GamingAlliance!
 
-Thanks for playing! This **pinned** announcement stays available from the 🔔 bell anytime.
+First launch takes longer! The Launcher will **automatically** fetch and update your files so it always match the server.
 
-- Server resets **Sunday 8 PM**
-- Join our [Discord](https://discord.gg/your-invite-code)
+- Check server announcements from the 🔔 bell anytime.
+- Open **Patch Notes** to access Wiki & Rules.
+- Stay on touch with the community - Join our [Discord](https://discord.gg/3jqpTSctJJ)
