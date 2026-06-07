@@ -18,4 +18,4 @@ Play fair and keep it fun for everyone. Breaking these may result in a warning, 
 
 ---
 
-**Launcher and Game Server built by `Ripsey` for `GamingAlliance.net`. Report any incident on our Discord.*
+*Launcher and Game Server built by `Ripsey` for `GamingAlliance.net`. Report any incident on our Discord.*
