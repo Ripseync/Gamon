@@ -1,12 +1,12 @@
 # 📢 Welcome to GamingAlliance!
 
-This is the **server announcement**. It pops up when the launcher finishes loading.
+The first time you hit **Play** the launcher will start updating the game files, this might take a few minutes.
 
-Edit `announcement.md` on GitHub to broadcast important info — server maintenance,
-events, mod changes, anything time-sensitive. Players can hide it (the **✕**) or
-**Mark as read** so it won't show again until you change this file.
+The launcher will fetch **automatically** updates for you to match the server's files.
+If everything is up to date, the laucher will start the game right away.
 
-- Server resets **Sunday 8 PM**
-- New region dropping soon — watch [Discord](https://discord.gg/your-invite-code)
+- Check settings for recommended RAM.
+- Open Patch-notes for Wiki / Rules.
+- Stay in touch with the community — join [Discord](https://discord.gg/3jqpTSctJJ).
 
-*Clear this file to remove the notification entirely.*
+*Ripsey*
