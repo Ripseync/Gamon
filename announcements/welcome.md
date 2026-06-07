@@ -5,7 +5,7 @@ date: 2026-06-01
 ---
 # 📢 Welcome to GamingAlliance!
 
-First launch takes longer! Please be patient.
+*First launch takes longer! Please be patient.*
 
 The Launcher will **automatically** fetch and update your files so it always match the server.
 
