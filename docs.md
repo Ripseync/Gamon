@@ -7,8 +7,22 @@ Helpful links, guides and mod wikis for the modpack. *(Work in progress — more
 
 ## Getting started
 
-- How to join the server *(coming soon)*
-- Controls & keybinds *(coming soon)*
+- Controls & keybinds:
+  * Select your Starter Pokémon: C
+  * Open Pokémon Party: C
+  * Change selected Pokémon: ↑ ↓
+  * Open Pokémon PC: P
+  * Zoom: X
+  * Map: M
+  * Jukebox: J
+  * Accessories: H
+  * Voice chat settings: V
+  * Claim protection settings: '
+    
+- How to evolve a Pokémon: meet requirements → "C" to access your Pokémon summary → "Evolve"
+- How to create a party: /openpac-parties create *your_party_name*
+- How to join a party: /openpac-parties join *party_name*
+- How to claim a land *(must be on Towns/Resources map)*: "M" to open map → select area holding right-click → claim
 
 ## Featured mods
 
