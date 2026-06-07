@@ -20,7 +20,7 @@ Helpful links, guides and mod wikis for the modpack. *(Work in progress — more
   - Claim protection settings: '
   - Ping: Middle mouse button
   - Waypoints: Ux
-    
+    x
 - How to evolve a Pokémon: meet requirements → "C" to access your Pokémon summary → "Evolve"
 - How to create a party: /openpac-parties create *your_party_name*
 - How to join a party: /openpac-parties join *party_name*
