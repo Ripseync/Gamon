@@ -1,5 +1,14 @@
 # Patch Notes
 
+## 2026-06-08 — Fixes, accessories sync & backpack inventory transfer
+
+- Fixed data synchronization issues between the **Accessories** Mod and the server.
+- Players can now transfer between servers while keeping all accessories, backpacks, and backpack contents intact.
+- Resolved an issue that could cause items to be lost during server transfers.
+- Your equipment and stored items should now transfer reliably without any loss of data.
+
+---
+
 ## 2026-06-07 — Announcements, faster sync & smoother start
 
 - **Server announcements!** Important news now pops up when the launcher finishes loading. Click a title to read it, hit **Mark as read** to dismiss, or use the new 🔔 bell to reopen them anytime. **Pinned** announcements stay available even after you've read them.
