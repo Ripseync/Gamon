@@ -12,4 +12,5 @@ The Launcher will **automatically** fetch and update your files so it always mat
 - Open **Patch Notes** to access **Wiki** & **Rules**.
 - Check server **Announcements** from the 🔔 bell anytime.
 - Open **Settings** to see the minimal requirements.
+- If you having issues with the launcher, run a **Verify** through the **Settings**.
 - Stay on touch with the community - Join our [Discord](https://discord.gg/3jqpTSctJJ).
