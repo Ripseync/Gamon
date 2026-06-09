@@ -1,5 +1,13 @@
 # Patch Notes
 
+## 2026-06-09 — Fixes, cobbleverse progress, gym leaders, advancements on server transfer
+
+- Fixed an issue where **level cap** progression was not properly synchronized between servers.
+- All level cap progress is now saved correctly and carries over when transferring between servers.
+- Gym Leader defeat **advancements** now persist across servers and will no longer reset after a transfer.
+
+---
+
 ## 2026-06-08 — Fixes, accessories sync & backpack inventory transfer
 
 - Fixed data synchronization issues between the **Accessories** Mod and the server.
