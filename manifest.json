@@ -581,6 +581,13 @@
                  },
                  {
                      "category":  "Core",
+                     "name":  "modguard-client-1.0.0",
+                     "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/modguard-client-1.0.0.jar",
+                     "fileName":  "modguard-client-1.0.0.jar",
+                     "sha1":  "b5271c09159c478adedfab38c58c78720cc7066e"
+                 },
+                 {
+                     "category":  "Core",
                      "name":  "modmenu-11.0.3",
                      "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/modmenu-11.0.3.jar",
                      "fileName":  "modmenu-11.0.3.jar",
@@ -2819,6 +2826,12 @@
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/resourcepacks/MysticMons%20RP.zip",
                            "path":  "resourcepacks/MysticMons RP.zip",
                            "sha1":  "e4e6545d60efb2926d2065414a5d754f46567bb8"
+                       },
+                       {
+                           "name":  "resourcepacks/Nautical-Ranks-V5-Java.zip",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/resourcepacks/Nautical-Ranks-V5-Java.zip",
+                           "path":  "resourcepacks/Nautical-Ranks-V5-Java.zip",
+                           "sha1":  "47730dbc5497833aba2868e6abe5eee49f4d1a21"
                        },
                        {
                            "name":  "resourcepacks/OJsAnimations RP.zip",
@@ -12664,7 +12677,7 @@
                            "name":  "options.txt",
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/options.txt",
                            "path":  "options.txt",
-                           "sha1":  "10e72e98787f286c2127318f477dcb2e1250c221"
+                           "sha1":  "fc66daa1319b429fcc385b984b37ddfac9ccfc81"
                        }
                    ],
     "links":  {
