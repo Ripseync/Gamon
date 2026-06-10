@@ -1,6 +1,6 @@
 debug = false
 disable_crowdin = false
-check_for_updates = false
+check_for_updates = true
 key_bindings = []
 
 [voice]
