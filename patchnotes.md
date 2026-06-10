@@ -1,5 +1,14 @@
 # Patch Notes
 
+## 2026-06-10 — Fixes, currency transfer & sync
+
+- Fixed CobbleDollars currency synchronization between servers.
+- Your CobbleDollars balance is now shared across all servers instead of being tracked separately on each one.
+- Currency will now transfer seamlessly when moving between servers, ensuring your balance remains consistent everywhere.
+- No more separate wallets—your money now follows you across the entire network.
+
+---
+
 ## 2026-06-09 — Fixes, cobbleverse progress, gym leaders, advancements on server transfer
 
 - Fixed an issue where **level cap** progression was not properly synchronized between servers.
