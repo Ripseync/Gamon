@@ -819,6 +819,13 @@
                  },
                  {
                      "category":  "Core",
+                     "name":  "servertp-1.0.0",
+                     "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/servertp-1.0.0.jar",
+                     "fileName":  "servertp-1.0.0.jar",
+                     "sha1":  "84940b1b598cb26eaedc30a2cf29af86447cb007"
+                 },
+                 {
+                     "category":  "Core",
                      "name":  "sodium-extra-fabric-0.6.0+mc1.21.1",
                      "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/sodium-extra-fabric-0.6.0%2Bmc1.21.1.jar",
                      "fileName":  "sodium-extra-fabric-0.6.0+mc1.21.1.jar",
