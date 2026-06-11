@@ -5,7 +5,8 @@
 - Implemented a custom **anti-cheat**.
 - Modified clients outside of GamingAlliance launcher will not be allowed to connect on the network.
 - Clients with custom mods outside of the default GamingAlliance mods will not be allowed to connect.
-- If you baving trouble connecting through the official GamingAlliance launcher, run **Verify** from the **Settings**.
+- Having trouble connecting through the official GamingAlliance launcher? — Run **Verify** from the **Settings**.
+- We understand that these changes might have an impact on the freedom of your gameplay, but we want to make sure to make it a fair and equal experience for everybody.
 
 ---
 
