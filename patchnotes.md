@@ -15,7 +15,7 @@
 - Fixed CobbleDollars currency synchronization between servers.
 - Your CobbleDollars balance is now shared across all servers instead of being tracked separately on each one.
 - Currency will now transfer seamlessly when moving between servers, ensuring your balance remains consistent everywhere.
-- No more separate wallets—your money now follows you across the entire network.
+- No more separate wallets — your money now follows you across the entire network.
 
 ---
 
