@@ -1,6 +1,6 @@
 # Patch Notes
 
-## 2026-06-11 — anti-cheat
+## 2026-06-11 — Anti-Cheat
 
 - Implemented a custom **anti-cheat**.
 - Modified clients outside of GamingAlliance launcher will not be allowed to connect on the network.
