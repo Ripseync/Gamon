@@ -1,5 +1,14 @@
 # Patch Notes
 
+## 2026-06-11 — anti-cheat
+
+- Implemented a custom **anti-cheat**.
+- Modified clients outside of GamingAlliance launcher will not be allowed to connect on the network.
+- Clients with custom mods outside of the default GamingAlliance mods will not be allowed to connect.
+- If you baving trouble connecting through the official GamingAlliance launcher, run **Verify** from the **Settings**.
+
+---
+
 ## 2026-06-10 — Fixes, currency transfer & sync
 
 - Fixed CobbleDollars currency synchronization between servers.
