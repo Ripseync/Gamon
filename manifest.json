@@ -2475,6 +2475,12 @@
                            "sha1":  "b50c8203fa763764f8c64bc189794c174f4b61ba"
                        },
                        {
+                           "name":  "config/servertp/servers.json",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/config/servertp/servers.json",
+                           "path":  "config/servertp/servers.json",
+                           "sha1":  "1a94fe01dafe5368897d277fb2db05edc20633b8"
+                       },
+                       {
                            "name":  "config/sound_physics_remastered/occlusion.properties",
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/config/sound_physics_remastered/occlusion.properties",
                            "path":  "config/sound_physics_remastered/occlusion.properties",
