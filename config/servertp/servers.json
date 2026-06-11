@@ -1,0 +1,20 @@
+{
+  "commandTemplate": "server {id}",
+  "servers": [
+    {
+      "id": "capital",
+      "name": "Capital",
+      "description": "Server Hub, merchants, events, and more"
+    },
+    {
+      "id": "towns",
+      "name": "Towns",
+      "description": "Main adventure world, build your base, explore cobbleverse campaign, difficutly:peacefull"
+    },
+    {
+      "id": "resources",
+      "name": "resources",
+      "description": "Temporary world, resets monthly, gather resources, hunt legendary structures, difficulty:hard"
+    }
+  ]
+}
