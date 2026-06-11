@@ -2,7 +2,7 @@
 
 ## 2026-06-11 — Anti-Cheat
 
-- Implemented a custom **anti-cheat**.
+- Implemented a custom **Anti-Cheat**.
 - Modified clients outside of GamingAlliance launcher will not be allowed to connect on the network.
 - Clients with custom mods outside of the default GamingAlliance mods will not be allowed to connect.
 - Having trouble connecting through the official GamingAlliance launcher? — Run **Verify** from the **Settings**.
