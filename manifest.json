@@ -822,7 +822,7 @@
                      "name":  "servertp-1.0.0",
                      "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/servertp-1.0.0.jar",
                      "fileName":  "servertp-1.0.0.jar",
-                     "sha1":  "84940b1b598cb26eaedc30a2cf29af86447cb007"
+                     "sha1":  "5ae38f3ceb878bab8736eab408f491743744145d"
                  },
                  {
                      "category":  "Core",
@@ -2473,12 +2473,6 @@
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/config/safepastures/safepastures.json",
                            "path":  "config/safepastures/safepastures.json",
                            "sha1":  "b50c8203fa763764f8c64bc189794c174f4b61ba"
-                       },
-                       {
-                           "name":  "config/servertp/servers.json",
-                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/config/servertp/servers.json",
-                           "path":  "config/servertp/servers.json",
-                           "sha1":  "1a94fe01dafe5368897d277fb2db05edc20633b8"
                        },
                        {
                            "name":  "config/sound_physics_remastered/occlusion.properties",
