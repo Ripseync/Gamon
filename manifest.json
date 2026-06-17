@@ -882,6 +882,13 @@
                  },
                  {
                      "category":  "Core",
+                     "name":  "spawnnotification-fabric-1.7.3-2.3.0",
+                     "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/spawnnotification-fabric-1.7.3-2.3.0.jar",
+                     "fileName":  "spawnnotification-fabric-1.7.3-2.3.0.jar",
+                     "sha1":  "5bfe69b063b61a09954729ad9a65cd2ab9b92b9c"
+                 },
+                 {
+                     "category":  "Core",
                      "name":  "StackDeobfuscatorFabric-1.4.3+08e71cc",
                      "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/StackDeobfuscatorFabric-1.4.3%2B08e71cc.jar",
                      "fileName":  "StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
