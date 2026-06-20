@@ -41,6 +41,17 @@ unlocks perks **in-game** — pick the one that fits you.
 Click **Become a patron** below to choose your tier. Thank you for supporting
 the community! ❤️
 
+---
+
+To receive your rewards:
+- Link your Patreon profile to Discord,
+- Check "Patreon" status on your profile from our Discord server to see if it worked,
+- Run "/discord link" in-game,
+- Copy the code provided in-game on the Discord dedicated channel,
+- Enjoy your rewards.
+
+---
+
 *Maintainer note: drop tier badge images under `patreon/titles/` in this repo
 (`supporter.png`, `bronze.png`, `silver.png`, `vip.png`, `elite.png`) and edit the
 numbers above to match your server config. Set the Patreon page URL via
