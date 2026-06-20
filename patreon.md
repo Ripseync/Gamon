@@ -1,7 +1,7 @@
 # Support GamingAlliance on Patreon
 
 Your support keeps the server online and funds new content. Every tier below
-unlocks perks **in-game and on the launcher** — pick the one that fits you.
+unlocks perks **in-game** — pick the one that fits you.
 
 > Tip: rewards stack as you climb tiers. A higher tier includes everything below it.
 
