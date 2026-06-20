@@ -10,15 +10,15 @@ unlocks perks **in-game** — pick the one that fits you.
 | Reward | Supporter | Bronze Supporter | Silver Supporter | VIP Supporter | Elite Supporter VIP |
 |---|---|---|---|---|---|
 | **Title** | ![Supporter](patreon/titles/supporter.png) | ![Bronze Supporter](patreon/titles/bronze.png) | ![Silver Supporter](patreon/titles/silver.png) | ![VIP Supporter](patreon/titles/vip.png) | ![Elite Supporter VIP](patreon/titles/elite.png) |
-| **Exclusive map access** | ✓ | ✓ | ✓ | ✓ | ✓ |
-| **Remote PC** | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Extra land claims** | +1 | +2 | +4 | +8 | +16 |
 | **Extra Pokémon storage** | +1 box | +2 boxes | +4 boxes | +8 boxes | +16 boxes |
 | **Extra /sethome** | +1 | +2 | +4 | +8 | +16 |
+| **Exclusive map access** | ✓ | ✓ | ✓ | ✓ | ✓ |
+| **Remote PC** | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Keep experience on-death** | ✗ | ✓ | ✓ | ✓ | ✓ |
+| **Ultra-Rare & Ultra-Beast spawn alerts** | ✗ | ✓ | ✓ | ✓ | ✓ |
 | **Keep inventory on-death** | ✗ | ✗ | ✓ | ✓ | ✓ |
 | **/back command** | ✗ | ✗ | ✓ | ✓ | ✓ |
-| **Ultra-Rare & Ultra-Beast spawn alerts** | ✗ | ✓ | ✓ | ✓ | ✓ |
 | **Shiny & Paradox spawn alerts** | ✗ | ✗ | ✓ | ✓ | ✓ |
 | **Max-IV spawn alerts** | ✗ | ✗ | ✗ | ✓ | ✓ |
 | **Spawn coordinates** | ✗ | ✗ | ✗ | ✗ | ✓ |
