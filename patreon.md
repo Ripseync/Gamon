@@ -21,7 +21,7 @@ unlocks perks **in-game** — pick the one that fits you.
 | **/back command** | ✗ | ✗ | ✓ | ✓ | ✓ |
 | **Shiny & Paradox spawn alerts** | ✗ | ✗ | ✓ | ✓ | ✓ |
 | **Max-IV spawn alerts** | ✗ | ✗ | ✗ | ✓ | ✓ |
-| **Spawn coordinates** | ✗ | ✗ | ✗ | ✗ | ✓ |
+| **Spawn alerts coordinates** | ✗ | ✗ | ✗ | ✗ | ✓ |
 
 *✓ = included · ✗ = not included*
 
