@@ -43,7 +43,7 @@ the community! ❤️
 
 ---
 
-To receive your rewards:
+How-to receive your rewards:
 1. Link your Patreon profile to Discord,
 2. Check "Patreon" status on your profile from our Discord server to see if it worked,
 3. Run "/discord link" in-game,
