@@ -5,7 +5,7 @@ date: 2026-06-01
 ---
 # 📢 Welcome to GamingAlliance!
 
-*First launch takes longer, please be patient!*
+*First launch can take up to 20 minutes, please be patient while everything is being installed!*
 
 The Launcher will **automatically** fetch and update your files so it always match the server.
 
