@@ -1,7 +1,7 @@
 ﻿{
     "server":  {
-                   "host":  "27.50.70.227",
-                   "port":  25565
+                   "host":  "0.0.0.0",
+                   "port":  25566
                },
     "version":  {
                     "minecraft":  "1.21.1",
@@ -2832,7 +2832,7 @@
                            "name":  "resourcepacks/Nautical-Ranks-V6-B-Java.zip",
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/resourcepacks/Nautical-Ranks-V6-B-Java.zip",
                            "path":  "resourcepacks/Nautical-Ranks-V6-B-Java.zip",
-                           "sha1":  "1912b5c37b16ab6b4e81d506dcf4a3e3dbcff5dc"
+                           "sha1":  "6fe22a9ffecd34d2590ffe4d753b445d154a937b"
                        },
                        {
                            "name":  "resourcepacks/OJsAnimations RP.zip",
