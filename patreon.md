@@ -16,11 +16,12 @@ unlocks perks **in-game** — pick the one that fits you.
 | **Exclusive map access** | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Remote PC** | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Keep experience on-death** | ✗ | ✓ | ✓ | ✓ | ✓ |
-| **Ultra-Rare & Ultra-Beast spawn alerts** | ✗ | ✓ | ✓ | ✓ | ✓ |
+| **Ultra-Rare & Shiny spawn alerts** | ✗ | ✓ | ✓ | ✓ | ✓ |
 | **Keep inventory on-death** | ✗ | ✗ | ✓ | ✓ | ✓ |
 | **/back command** | ✗ | ✗ | ✓ | ✓ | ✓ |
-| **Shiny & Paradox spawn alerts** | ✗ | ✗ | ✓ | ✓ | ✓ |
-| **Max-IV spawn alerts** | ✗ | ✗ | ✗ | ✓ | ✓ |
+| **Ultra Beast & Paradox spawn alerts** | ✗ | ✗ | ✓ | ✓ | ✓ |
+| **Legendary & Mythical spawn alerts** | ✗ | ✗ | ✓ | ✓ | ✓ |
+| **Max-IV spawn alerts** | ✗ | ✗ | ✗ | ✗ | ✓ |
 | **Spawn alerts coordinates** | ✗ | ✗ | ✗ | ✗ | ✓ |
 
 *✓ = included · ✗ = not included*
