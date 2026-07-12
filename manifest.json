@@ -1,7 +1,7 @@
 ﻿{
     "server":  {
-                   "host":  "27.50.70.227",
-                   "port":  25565
+                   "host":  "0.0.0.0",
+                   "port":  25566
                },
     "version":  {
                     "minecraft":  "1.21.1",
@@ -2829,10 +2829,10 @@
                            "sha1":  "e4e6545d60efb2926d2065414a5d754f46567bb8"
                        },
                        {
-                           "name":  "resourcepacks/Nautical-Ranks-V5-Java.zip",
-                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/resourcepacks/Nautical-Ranks-V5-Java.zip",
-                           "path":  "resourcepacks/Nautical-Ranks-V5-Java.zip",
-                           "sha1":  "47730dbc5497833aba2868e6abe5eee49f4d1a21"
+                           "name":  "resourcepacks/Nautical-Ranks-V6-B-Java.zip",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/resourcepacks/Nautical-Ranks-V6-B-Java.zip",
+                           "path":  "resourcepacks/Nautical-Ranks-V6-B-Java.zip",
+                           "sha1":  "fecde79db9bc81d3aa32436b8aa9c1df40f0face"
                        },
                        {
                            "name":  "resourcepacks/OJsAnimations RP.zip",
@@ -12678,13 +12678,13 @@
                            "name":  "options.txt",
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/options.txt",
                            "path":  "options.txt",
-                           "sha1":  "fc66daa1319b429fcc385b984b37ddfac9ccfc81"
+                           "sha1":  "4187c4ebd715b1eb744c167174e4bc7eab61e4df"
                        }
                    ],
     "links":  {
-                  "discord":  "https://discord.gg/3jqpTSctJJ",
+                  "patreon":  "https://www.patreon.com/GamingAlliance/membership?vanity=GamingAlliance",
                   "website":  "https://gamingalliance.net",
-                  "patreon":  "https://www.patreon.com/GamingAlliance/membership?vanity=GamingAlliance"
+                  "discord":  "https://discord.gg/3jqpTSctJJ"
               },
     "media":  {
                   "backgroundVideos":  [
