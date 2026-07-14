@@ -10,8 +10,8 @@ unlocks perks **in-game** — pick the one that fits you.
 | Reward | Supporter | Bronze Supporter | Silver Supporter | VIP Supporter | Elite Supporter VIP |
 |---|---|---|---|---|---|
 | **Title / Icon** | ![Supporter](patreon/titles/supporter.png) | ![Bronze Supporter](patreon/titles/bronze.png) | ![Silver Supporter](patreon/titles/silver.png) | ![VIP Supporter](patreon/titles/vip.png) | ![Elite Supporter VIP](patreon/titles/elite.png) |
-| **Extra land claims** | +5 | +10 | +15 | +30 | +70 |
-| **Extra Pokémon storage** | +5 box | +10 boxes | +15 boxes | +30 boxes | +70 boxes |
+| **Extra land claims** | +5 | +10 | +20 | +30 | +70 |
+| **Extra Pokémon storage** | +5 box | +10 boxes | +20 boxes | +30 boxes | +70 boxes |
 | **Extra /sethome** | +1 | +2 | +3 | +5 | +10 |
 | **Exclusive map access** | ✓ | ✓ | ✓ | ✓ | ✓ |
 | **Remote PC** | ✓ | ✓ | ✓ | ✓ | ✓ |
