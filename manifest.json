@@ -2499,6 +2499,30 @@
                            "sha1":  "0cb956eb9d1904db1235a5807db487afd9e83b19"
                        },
                        {
+                           "name":  "config/waterframes/Hoenn.mp4",
+                           "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/extras__config__waterframes__Hoenn.mp4",
+                           "path":  "config/waterframes/Hoenn.mp4",
+                           "sha1":  "8c6f348ee9cefd8d4f13f44867d4cbd07b2b0591"
+                       },
+                       {
+                           "name":  "config/waterframes/Johto.mp4",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/config/waterframes/Johto.mp4",
+                           "path":  "config/waterframes/Johto.mp4",
+                           "sha1":  "d22d018dd02f8e4e3108606737826422d111a18e"
+                       },
+                       {
+                           "name":  "config/waterframes/Kalos.mp4",
+                           "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/extras__config__waterframes__Kalos.mp4",
+                           "path":  "config/waterframes/Kalos.mp4",
+                           "sha1":  "f53fbbee5c09a619583072e9338093d735d6f7d3"
+                       },
+                       {
+                           "name":  "config/waterframes/Kanto.mp4",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/config/waterframes/Kanto.mp4",
+                           "path":  "config/waterframes/Kanto.mp4",
+                           "sha1":  "a06b920ca89712a805c838e07f2176009ef51663"
+                       },
+                       {
                            "name":  "config/watermedia/custom_vlc_path.txt",
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/config/watermedia/custom_vlc_path.txt",
                            "path":  "config/watermedia/custom_vlc_path.txt",
