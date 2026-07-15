@@ -9,8 +9,8 @@ unlocks perks **in-game** — pick the one that fits you.
 
 | Reward | Supporter | Bronze Supporter | Silver Supporter | VIP Supporter | Elite Supporter VIP |
 |---|---|---|---|---|---|
-| **Title color** | <span style="color:blue">[Player]</span> | +10 | +20 | +30 | +70 |
 | **Exclusive icon** | ![Supporter](patreon/titles/supporter.png) | ![Bronze Supporter](patreon/titles/bronze.png) | ![Silver Supporter](patreon/titles/silver.png) | ![VIP Supporter](patreon/titles/vip.png) | ![Elite Supporter VIP](patreon/titles/elite.png) |
+| **Title color** | [Green] | [Blue] | [Gold] | [Purple] | [Red] |
 | **Extra land claims** | +5 | +10 | +20 | +30 | +70 |
 | **Claim forceload available** | 1 | 1 | 2 | 5 | 10 |
 | **Extra Pokémon storage** | +5 box | +10 boxes | +20 boxes | +30 boxes | +70 boxes |
