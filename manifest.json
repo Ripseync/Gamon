@@ -819,10 +819,10 @@
                  },
                  {
                      "category":  "Core",
-                     "name":  "servertp-1.1.0",
-                     "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/servertp-1.1.0.jar",
-                     "fileName":  "servertp-1.1.0.jar",
-                     "sha1":  "c76610fc00fc267b4ac7d7d90bbab91b335ef3f2"
+                     "name":  "servertp-1.0.0",
+                     "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/servertp-1.0.0.jar",
+                     "fileName":  "servertp-1.0.0.jar",
+                     "sha1":  "02e97eda1d8f62bd0b8f8510cdd99ae6b642f463"
                  },
                  {
                      "category":  "Core",
