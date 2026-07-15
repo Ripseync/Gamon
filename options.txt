@@ -169,7 +169,7 @@ key_key.modmenu.open_menu:key.keyboard.n
 key_key.more_cobblemon_tweaks.open_config:key.keyboard.f9
 key_key.musicnotification.open_screen:key.keyboard.j
 key_gui.xaero_pac_key_open_menu:key.keyboard.apostrophe
-key_key.pingwheel.ping_location:key.mouse.5
+key_key.pingwheel.ping_location:key.mouse.middle
 key_key.pingwheel.open_settings:key.keyboard.unknown
 key_key.plasmovoice.settings:key.keyboard.v
 key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
