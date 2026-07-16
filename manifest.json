@@ -525,6 +525,13 @@
                  },
                  {
                      "category":  "Core",
+                     "name":  "lootrmon-fabric-1.21.1-0.0.0.3",
+                     "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/lootrmon-fabric-1.21.1-0.0.0.3.jar",
+                     "fileName":  "lootrmon-fabric-1.21.1-0.0.0.3.jar",
+                     "sha1":  "a09db5b7dd916f3c7fb9e1da1bd83c04f14ce4d9"
+                 },
+                 {
+                     "category":  "Core",
                      "name":  "Luckys-Cozyhome-Refurnished-1.1.20",
                      "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/Luckys-Cozyhome-Refurnished-1.1.20.jar",
                      "fileName":  "Luckys-Cozyhome-Refurnished-1.1.20.jar",
