@@ -836,7 +836,7 @@
                      "name":  "servertp-1.0.0",
                      "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/servertp-1.0.0.jar",
                      "fileName":  "servertp-1.0.0.jar",
-                     "sha1":  "0863abac3f177f784d6d8e6718f4ffbaca49b350"
+                     "sha1":  "96c80a7e7d9983e9ad1a0b03bd1c735066640355"
                  },
                  {
                      "category":  "Core",
@@ -899,7 +899,7 @@
                      "name":  "spawnnotification-fabric-1.7.3-2.3.0",
                      "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/spawnnotification-fabric-1.7.3-2.3.0.jar",
                      "fileName":  "spawnnotification-fabric-1.7.3-2.3.0.jar",
-                     "sha1":  "5bfe69b063b61a09954729ad9a65cd2ab9b92b9c"
+                     "sha1":  "2849ade31544202c76785b65ee0da94749745749"
                  },
                  {
                      "category":  "Core",
