@@ -140,6 +140,13 @@
                  },
                  {
                      "category":  "Core",
+                     "name":  "chatchannels-1.0.0",
+                     "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/chatchannels-1.0.0.jar",
+                     "fileName":  "chatchannels-1.0.0.jar",
+                     "sha1":  "902a27f876c543b02997cb485d2b28a153c07d03"
+                 },
+                 {
+                     "category":  "Core",
                      "name":  "chipped-fabric-1.21.1-4.0.2",
                      "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/chipped-fabric-1.21.1-4.0.2.jar",
                      "fileName":  "chipped-fabric-1.21.1-4.0.2.jar",
