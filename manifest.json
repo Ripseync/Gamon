@@ -2331,7 +2331,7 @@
                            "name":  "config/plasmovoice/client.toml",
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/config/plasmovoice/client.toml",
                            "path":  "config/plasmovoice/client.toml",
-                           "sha1":  "7ffed748fbe1aa8c6b3c132f402d1bd1a483d797"
+                           "sha1":  "417a2353eae747e76d58cf9246df6d4a5e26368b"
                        },
                        {
                            "name":  "config/plasmovoice/meta_cache.json",
