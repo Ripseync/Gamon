@@ -882,6 +882,13 @@
                  },
                  {
                      "category":  "Core",
+                     "name":  "sophisticatedlootr-1.0.0",
+                     "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/sophisticatedlootr-1.0.0.jar",
+                     "fileName":  "sophisticatedlootr-1.0.0.jar",
+                     "sha1":  "2928923084844aa6717135cf676bb305863354b1"
+                 },
+                 {
+                     "category":  "Core",
                      "name":  "sophisticatedstorage-1.21.1-1.3.7.9.139",
                      "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
                      "fileName":  "sophisticatedstorage-1.21.1-1.3.7.9.139.jar",
