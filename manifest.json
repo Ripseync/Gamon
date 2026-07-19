@@ -1363,6 +1363,12 @@
                            "sha1":  "38f2993a7d80d0a6a25eb6182bd6898af24a16eb"
                        },
                        {
+                           "name":  "config/lootr.json",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/config/lootr.json",
+                           "path":  "config/lootr.json",
+                           "sha1":  "d22bc0060ee4b084eedc638c93fc9253d8672774"
+                       },
+                       {
                            "name":  "config/lumymon.json",
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/config/lumymon.json",
                            "path":  "config/lumymon.json",
