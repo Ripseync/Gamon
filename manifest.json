@@ -12740,6 +12740,84 @@
                            "sha1":  "fc1349e387e480bec84c6813d1d75e85c3a5ac4f"
                        },
                        {
+                           "name":  "emotes/Breakdance Flare.emotecraft",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/Breakdance%20Flare.emotecraft",
+                           "path":  "emotes/Breakdance Flare.emotecraft",
+                           "sha1":  "17216462e4854cf581439ac0582f89f04cfe68a4"
+                       },
+                       {
+                           "name":  "emotes/Combat stance with a sword.emotecraft",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/Combat%20stance%20with%20a%20sword.emotecraft",
+                           "path":  "emotes/Combat stance with a sword.emotecraft",
+                           "sha1":  "e119009f13713d4a1fae21db6d366b0bc9bbfd0c"
+                       },
+                       {
+                           "name":  "emotes/cool sit.emotecraft",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/cool%20sit.emotecraft",
+                           "path":  "emotes/cool sit.emotecraft",
+                           "sha1":  "b1e0ea87f4fcecaffccf19a5e9245dad1f13971b"
+                       },
+                       {
+                           "name":  "emotes/Dance Moves.emotecraft",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/Dance%20Moves.emotecraft",
+                           "path":  "emotes/Dance Moves.emotecraft",
+                           "sha1":  "ae0273a675a05fa7d4657c9bf843de84ba72c73f"
+                       },
+                       {
+                           "name":  "emotes/Just Dance (Dance).emotecraft",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/Just%20Dance%20(Dance).emotecraft",
+                           "path":  "emotes/Just Dance (Dance).emotecraft",
+                           "sha1":  "8d5c6c0c8857d154e2d55645d8adb3abe661290e"
+                       },
+                       {
+                           "name":  "emotes/Lean elbow on the wall (Right hand).emotecraft",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/Lean%20elbow%20on%20the%20wall%20(Right%20hand).emotecraft",
+                           "path":  "emotes/Lean elbow on the wall (Right hand).emotecraft",
+                           "sha1":  "f0d0f9fbb0288824c32609a8af96d52981687aff"
+                       },
+                       {
+                           "name":  "emotes/Lean with a straight arm against the wall (Left hand).emotecraft",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/Lean%20with%20a%20straight%20arm%20against%20the%20wall%20(Left%20hand).emotecraft",
+                           "path":  "emotes/Lean with a straight arm against the wall (Left hand).emotecraft",
+                           "sha1":  "61b310d838df4e6574b9f7f3841d36d06e63d04e"
+                       },
+                       {
+                           "name":  "emotes/Lean with a straight arm against the wall (Right hand).emotecraft",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/Lean%20with%20a%20straight%20arm%20against%20the%20wall%20(Right%20hand).emotecraft",
+                           "path":  "emotes/Lean with a straight arm against the wall (Right hand).emotecraft",
+                           "sha1":  "846e0cc2c976b24ac1f77f47d39034caa53d77ad"
+                       },
+                       {
+                           "name":  "emotes/lean.emotecraft",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/lean.emotecraft",
+                           "path":  "emotes/lean.emotecraft",
+                           "sha1":  "cc7d586102cf2b5a2e35b2c59cfbac0ef144cc67"
+                       },
+                       {
+                           "name":  "emotes/Lie on the side (Left side).emotecraft",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/Lie%20on%20the%20side%20(Left%20side).emotecraft",
+                           "path":  "emotes/Lie on the side (Left side).emotecraft",
+                           "sha1":  "0d28cae3ffbbb5edbb2dd97b0bf6983981e99c12"
+                       },
+                       {
+                           "name":  "emotes/Lie on the side (Right side).emotecraft",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/Lie%20on%20the%20side%20(Right%20side).emotecraft",
+                           "path":  "emotes/Lie on the side (Right side).emotecraft",
+                           "sha1":  "45f404c1d11d3bc1e9ebc35e42cbb263eaed8dec"
+                       },
+                       {
+                           "name":  "emotes/Lie with hands behind a head.emotecraft",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/Lie%20with%20hands%20behind%20a%20head.emotecraft",
+                           "path":  "emotes/Lie with hands behind a head.emotecraft",
+                           "sha1":  "8dea31d670c1e0abd7f1edc111468242cccceaf3"
+                       },
+                       {
+                           "name":  "emotes/Twerk (Dance).emotecraft",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/Twerk%20(Dance).emotecraft",
+                           "path":  "emotes/Twerk (Dance).emotecraft",
+                           "sha1":  "6b28c56ac1f0e62c7155c9c0ae8fa2e010638d29"
+                       },
+                       {
                            "name":  "options.txt",
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/options.txt",
                            "path":  "options.txt",
