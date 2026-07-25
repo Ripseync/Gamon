@@ -301,6 +301,13 @@
                  },
                  {
                      "category":  "Core",
+                     "name":  "emotecraft-for-MC1.21.1-2.4.12-fabric",
+                     "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+                     "fileName":  "emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
+                     "sha1":  "9be2a237e27f20d2d00f0036a8be53d7d66c5df5"
+                 },
+                 {
+                     "category":  "Core",
                      "name":  "entityculling-fabric-1.9.5-mc1.21.1",
                      "url":  "https://github.com/Ripseync/Gamon/releases/download/mods-initial/entityculling-fabric-1.9.5-mc1.21.1.jar",
                      "fileName":  "entityculling-fabric-1.9.5-mc1.21.1.jar",
