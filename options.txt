@@ -143,8 +143,9 @@ key_key.cobblemon-battle-extras.battle_logs:key.keyboard.unknown
 key_key.cobblemonraiddens.mouse:key.keyboard.right.control
 key_key.cobblemonraiddens.accept:key.keyboard.f6
 key_key.cobblemonraiddens.deny:key.keyboard.f7
+key_key.emotecraft.fastchoose:key.keyboard.g
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.fightorflight.startbattle:key.keyboard.g
+key_key.fightorflight.startbattle:key.keyboard.unknown
 key_key.fightorflight.moveslot1:key.keyboard.unknown
 key_key.fightorflight.moveslot2:key.keyboard.unknown
 key_key.fightorflight.moveslot3:key.keyboard.unknown
