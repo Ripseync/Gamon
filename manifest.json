@@ -12764,6 +12764,12 @@
                            "sha1":  "ae0273a675a05fa7d4657c9bf843de84ba72c73f"
                        },
                        {
+                           "name":  "emotes/ENA holds an item.emotecraft",
+                           "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/ENA%20holds%20an%20item.emotecraft",
+                           "path":  "emotes/ENA holds an item.emotecraft",
+                           "sha1":  "fd6de4fd8790da8b0ffc3fc09208af59f24ca7da"
+                       },
+                       {
                            "name":  "emotes/Just Dance (Dance).emotecraft",
                            "url":  "https://raw.githubusercontent.com/Ripseync/Gamon/main/emotes/Just%20Dance%20(Dance).emotecraft",
                            "path":  "emotes/Just Dance (Dance).emotecraft",
